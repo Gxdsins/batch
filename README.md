@@ -6,8 +6,9 @@ Welcome to my personal collection of **Batch Scripts**, designed for various tas
 
 As of now, this repository contains two batch scripts that offer solutions for:
 
-- **Script 1:** (Insert script name and brief description, e.g., Automates file cleanup for efficiency in file management)
-- **Script 2:** (Insert script name and brief description, e.g., A robust system shutdown script for managing scheduled tasks)
+- **Script 1:** (disk_cleanup.bat)
+- **Script 2:** (backup_script.bat)
+- **Script 3:** (organize_files.bat)
 
 These scripts demonstrate my focus on creating **efficient**, **minimalistic**, and **reliable** solutions, designed for quick integration into any system setup. They will serve as the foundation for more advanced tools that will be added to the repository in the future.
 
